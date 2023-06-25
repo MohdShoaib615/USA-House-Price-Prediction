@@ -9,3 +9,5 @@ Then I created the pkl file of the model.
 After that I have created the Flask file using Visual Studio Code.
 
 Then by using the AWS EC2 instance, I have deployed my model where I can predict the price of house for unseen data.
+
+--> AWS link for predction= 'ec2-54-210-215-117.compute-1.amazonaws.com:8080'
